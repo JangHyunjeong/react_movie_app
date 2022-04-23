@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/test-creative-react-app/static/css/main.aa85c39b.css",
-    "main.js": "/test-creative-react-app/static/js/main.08adc106.js",
+    "main.css": "/test-creative-react-app/static/css/main.c3bee4b8.css",
+    "main.js": "/test-creative-react-app/static/js/main.fe00987e.js",
     "index.html": "/test-creative-react-app/index.html",
-    "main.aa85c39b.css.map": "/test-creative-react-app/static/css/main.aa85c39b.css.map",
-    "main.08adc106.js.map": "/test-creative-react-app/static/js/main.08adc106.js.map"
+    "main.c3bee4b8.css.map": "/test-creative-react-app/static/css/main.c3bee4b8.css.map",
+    "main.fe00987e.js.map": "/test-creative-react-app/static/js/main.fe00987e.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa85c39b.css",
-    "static/js/main.08adc106.js"
+    "static/css/main.c3bee4b8.css",
+    "static/js/main.fe00987e.js"
   ]
 }
